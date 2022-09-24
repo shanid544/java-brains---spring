@@ -1,2 +1,10 @@
 introduction to spring
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DI is possible because of spring act as container of beans/factory of beans
+what is container - tomcat is servelet container - it creates servelet objects - inordr to run application - for a deployment os an app w will configure servelets in a XML file - and passes the classes also - tomacat read the xml - and tomcat understand what are the srvelets should init and create
+
+like that spring is container of beans - spring handles those beans/objects
+spring manages object life cycle
+spring owns those objects
+creation of objct done by spring as per the conf passed by developer
+
