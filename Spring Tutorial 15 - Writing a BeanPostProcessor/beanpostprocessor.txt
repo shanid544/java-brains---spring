@@ -1,0 +1,2 @@
+beanpostprocessor - will execute after the initialization of any bean in the configured xml
+to implimnet the beanpostprocessor we need to create a class by implimnting beanpostprocessor ano overridin 2 metods and configure the class in xml file as normal bean
