@@ -1,0 +1,4 @@
+here in xml we are using a property tag, that is used to inject type variable in the triangle class, 
+property tag is setting the value of type variable , so we call setter injection
+
+ie, property tag is usig setType method of Trainle classs internally 
